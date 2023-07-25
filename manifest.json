@@ -3,14 +3,9 @@
   "name": "msDraw",
   "version": "1.0",
   "description": "A drawing tool to allow users to draw on the screen and save the image to their computer.",
-  "icons": {
-    "48": "icon.png"
-  },
+  
   "browser_action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "icon.png",
-      "48": "icon.png"
-    }
+    "default_popup": "popup.html"
+    
   }
 }
