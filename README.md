@@ -42,7 +42,7 @@ We welcome contributions to enhance the msDraw Chrome Extension. If you have any
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the extension according to the terms of the license.
+<!-- This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the extension according to the terms of the license.
 
 ## Acknowledgments
 
@@ -50,4 +50,4 @@ Special thanks to the creators and contributors of the open-source libraries and
 
 Happy drawing and let your creativity flow!
 
-<!-- ![msDraw Screenshot](screenshot.png) -->
+![msDraw Screenshot](screenshot.png) -->
